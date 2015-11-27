@@ -1,355 +1,355 @@
-,,,Start Node,mVia,mEnd Node,End Node,Via,
-1,1,Malalua - Nduruma - Bwawani,Malalua , Nduruma , Bwawani, Bwawani, Nduruma ,
-2,2,Sokon Ii - Sasi - Ambureni,Sokon Ii , Sasi , Ambureni, Ambureni, Sasi ,
-3,3,Tpri - Likamba,Tpri , Likamba,, Likamba,,
-4,4,Mianzini - Timbolo,Mianzini , Timbolo,, Timbolo,,
-5,5,Sanawari - Oldonyosapuk,Sanawari , Oldonyosapuk,, Oldonyosapuk,,
-6,6,Sekei - Olgilai - Kimandolo,Sekei , Olgilai , Kimandolo, Kimandolo, Olgilai ,
-9,7,Ilkiding'a - Sambasha,Ilkiding'a , Sambasha,, Sambasha,,
-10,8,Lengijave - Kisimiri,Lengijave , Kisimiri,, Kisimiri,,
-11,9,Sokon Ii - Oldadai - Midawe,Sokon Ii , Oldadai , Midawe, Midawe, Oldadai ,
-12,10,Arusha Airport - Ngaramtoni,Arusha Airport , Ngaramtoni,, Ngaramtoni,,
-13,11,Likamba - Imbibia,Likamba , Imbibia,, Imbibia,,
-14,12,Kisongo - Musa,Kisongo , Musa,, Musa,,
-15,13,Gomba Estate - Msitu Wa Mbogo,Gomba Estate , Msitu Wa Mbogo,, Msitu Wa Mbogo,,
-16,14,Olturoto - Mringa,Olturoto , Mringa,, Mringa,,
-21,15,Oljoro - Ujamaa Village,Oljoro , Ujamaa Village,, Ujamaa Village,,
-22,16,Mbuyuni - Mirongoine,Mbuyuni , Mirongoine,, Mirongoine,,
-23,17,Kisongo - Lemugur,Kisongo , Lemugur,, Lemugur,,
-24,18,Kilimamoto - Mwandet,Kilimamoto , Mwandet,, Mwandet,,
-25,19,Oldonyosambu - Gigas,Oldonyosambu , Gigas,, Gigas,,
-26,20,Ndiyogi - Olkokola,Ndiyogi , Olkokola,, Olkokola,,
-27,21,Radio Habari Maalum - Olturumet Hospital,Radio Habari Maalum , Olturumet Hospital,, Olturumet Hospital,,
-28,22,Ngaramtoni - Selian,Ngaramtoni , Selian,, Selian,,
-29,23,Ngaramtoni - Sambasha,Ngaramtoni , Sambasha,, Sambasha,,
-30,24,Sanawari - Ilboru,Sanawari , Ilboru,, Ilboru,,
-33,25,Sanawari - Kioga,Sanawari , Kioga,, Kioga,,
-34,26,Lengijave - Mwandet,Lengijave , Mwandet,, Mwandet,,
-35,27,Olgilai - Ng'iresi,Olgilai , Ng'iresi,, Ng'iresi,,
-36,28,Lengijave - Engalaoni,Lengijave , Engalaoni,, Engalaoni,,
-37,29,Olgilai - Sokon Ii - Kimandolu,Olgilai , Sokon Ii , Kimandolu, Kimandolu, Sokon Ii ,
-38,30,Odonyosambu - Kikosi Cha Rada,Odonyosambu , Kikosi Cha Rada,, Kikosi Cha Rada,,
-39,31,Arusha Meat - Olosiva,Arusha Meat , Olosiva,, Olosiva,,
-40,32,Silent Inn - Freedom Hotel,Silent Inn , Freedom Hotel,, Freedom Hotel,,
-41,33,Oldonyowas - Forest,Oldonyowas , Forest,, Forest,,
-42,34,Kilimamoto - Olturumet Hospital,Kilimamoto , Olturumet Hospital,, Olturumet Hospital,,
-43,35,Kilimamoto - Kisongo,Kilimamoto , Kisongo,, Kisongo,,
-52,1,Ambureni-nkoanrua,Ambureni,nkoanrua,,nkoanrua,,
-53,2,Patandi –akheri –ndoombo,Patandi –akheri –ndoombo,,,,,
-54,3,Akheri – Nkoanrua,Akheri – Nkoanrua,,,,,
-55,4,Sing’isi-seela-forest,Sing’isi,seela,forest,forest,seela,
-56,5,Kilala-nkoaranga,Kilala,nkoaranga,,nkoaranga,,
-57,6,Leganga – Songoro,Leganga – Songoro,,,,,
-58,7,M/chai-sakila-kikatiti,M/chai,sakila,kikatiti,kikatiti,sakila,
-59,8,Kikatiti-makiba,Kikatiti,makiba,,makiba,,
-60,9,Mbuguni- Cairo,Mbuguni, Cairo,, Cairo,,
-61,10,Manyata- Kikwe,Manyata, Kikwe,, Kikwe,,
-62,11,Malula-leguruki-nkoasenga,Malula,leguruki,nkoasenga,nkoasenga,leguruki,
-63,12,Leguruki-ngarenanyuki,Leguruki,ngarenanyuki,,ngarenanyuki,,
-64,13,Poli-seela(sing’isi),Poli,seela(sing’isi),,seela(sing’isi),,
-65,14,Seela-kimundo,Seela,kimundo,,kimundo,,
-66,15,Kwa Pole – Nkoanrua,Kwa Pole – Nkoanrua,,,,,
-67,16,Machumba-nkoanrua,Machumba,nkoanrua,,nkoanrua,,
-68,17,Camartec-maweni,Camartec,maweni,,maweni,,
-69,18,Tengeru-nambala,Tengeru,nambala,,nambala,,
-72,19,Sawmill-sura,Sawmill,sura,,sura,,
-73,20,Makumira –uraki,Makumira –uraki,,,,,
-74,21,Nkoaranga - Kilinga,Nkoaranga , Kilinga,, Kilinga,,
-79,22,Nkoanrua-ulong’a-oldadai,Nkoanrua,ulong’a,oldadai,oldadai,ulong’a,
-80,23,Patandi-kimundo,Patandi,kimundo,,kimundo,,
-83,24,Sangisi-carmatec,Sangisi,carmatec,,carmatec,,
-84,25,Ngarenanyuki-ngabobo,Ngarenanyuki,ngabobo,,ngabobo,,
-85,26,Laketatu-sioni,Laketatu,sioni,,sioni,,
-86,27,Msorongo Road,Msorongo Road,,,,,
-87,28,Msitu Wa Mbogo-kikuletwa,Msitu Wa Mbogo,kikuletwa,,kikuletwa,,
-88,29,Kikatiti-ngyeku,Kikatiti,ngyeku,,ngyeku,,
-89,30,Kikatiti-samalia,Kikatiti,samalia,,samalia,,
-90,31,Kitefu-sakila,Kitefu,sakila,,sakila,,
-91,32,Maji Ya Chai-valensika,Maji Ya Chai,valensika,,valensika,,
-92,33,Maji Ya Chai-kitefu,Maji Ya Chai,kitefu,,kitefu,,
-93,34,Kwa Aloyse-embaseni,Kwa Aloyse,embaseni,,embaseni,,
-94,35,Kolila-ngejisosia,Kolila,ngejisosia,,ngejisosia,,
-98,36,Police Quarter-muungano Road,Police Quarter,muungano Road,,muungano Road,,
-99,37,Lelo –site Road,Lelo –site Road,,,,,
-100,38,Makamba Road,Makamba Road,,,,,
-101,39,Mipango Road,Mipango Road,,,,,
-102,40,Asha Road,Asha Road,,,,,
-103,41,Rotadam - Site,Rotadam , Site,, Site,,
-104,42,Samora Road,Samora Road,,,,,
-105,43,Lyimo Road,Lyimo Road,,,,,
-106,44,Ben Road,Ben Road,,,,,
-107,45,Mndolwa Road,Mndolwa Road,,,,,
-108,46,Mamy Road,Mamy Road,,,,,
-109,47,Young Roses Road,Young Roses Road,,,,,
-110,48,Youg Roses Junction,Youg Roses Junction,,,,,
-111,49,Mamlaka Road,Mamlaka Road,,,,,
-112,50,Ded Road,Ded Road,,,,,
-113,51,Mamlaka Junction,Mamlaka Junction,,,,,
-114,52,Mandela Road,Mandela Road,,,,,
-115,53,Jaluo Road,Jaluo Road,,,,,
-116,54,Mafia Street,Mafia Street,,,,,
-117,55,Tesha Road,Tesha Road,,,,,
-118,56,Usalama Road,Usalama Road,,,,,
-119,57,Kanisa Road,Kanisa Road,,,,,
-120,58,Msechu Road,Msechu Road,,,,,
-121,59,Chonjo Road,Chonjo Road,,,,,
-122,60,Makongo Road,Makongo Road,,,,,
-123,61,Leganga - Ngarasero,Leganga , Ngarasero,, Ngarasero,,
-124,62,Kisambare - Biashara House,Kisambare , Biashara House,, Biashara House,,
-125,63,Tandale Junction - Kwa Kiko,Tandale Junction , Kwa Kiko,, Kwa Kiko,,
-126,64,Tandale Junction - Kisambare Dyss,Tandale Junction , Kisambare Dyss,, Kisambare Dyss,,
-127,65,Kisambare Junction - Dyss,Kisambare Junction , Dyss,, Dyss,,
-128,66,Biashara Road-kisambare Junction,Biashara Road,kisambare Junction,,kisambare Junction,,
-129,67,Msimbati Road,Msimbati Road,,,,,
-130,68,Tanesco Road,Tanesco Road,,,,,
-131,69,Babtist Road,Babtist Road,,,,,
-132,70,Upendo Road,Upendo Road,,,,,
-133,71,Umale Road,Umale Road,,,,,
-134,72,Malisa Road,Malisa Road,,,,,
-135,73,Kimaro Road,Kimaro Road,,,,,
-136,74,Malisa Junction – Tanesco,Malisa Junction – Tanesco,,,,,
-137,75,Posta Road,Posta Road,,,,,
-138,76,Kituo Cha Afya Road,Kituo Cha Afya Road,,,,,
-139,77,Miembeni Road,Miembeni Road,,,,,
-140,78,Tandale Road,Tandale Road,,,,,
-141,79,Dyss Road,Dyss Road,,,,,
-142,80,Kkkt Road,Kkkt Road,,,,,
-143,81,Biashara House-kilimo,Biashara House,kilimo,,kilimo,,
-144,82,Meru Mills Road,Meru Mills Road,,,,,
-145,83,Rhino Road,Rhino Road,,,,,
-146,84,Simba Grills Road,Simba Grills Road,,,,,
-147,85,Msikiti Road,Msikiti Road,,,,,
-148,86,Africando Road,Africando Road,,,,,
-149,87,Africando Junction-stand,Africando Junction,stand,,stand,,
-150,88,Usa Health Centre,Usa Health Centre,,,,,
-151,89,Magadirisho-usa,Magadirisho,usa,,usa,,
-152,90,Ngarasero-machinjioni,Ngarasero,machinjioni,,machinjioni,,
-153,91,Mkusa Road,Mkusa Road,,,,,
-162,1,Monduli - Alkaria - Mti Mmoja,Monduli , Alkaria , Mti Mmoja, Mti Mmoja, Alkaria ,
-163,2,Lashaine - Arkatan - Monduli,Lashaine , Arkatan , Monduli, Monduli, Arkatan ,
-164,3,Kisongo - Moita Bwawani,Kisongo , Moita Bwawani,, Moita Bwawani,,
-165,4,Moita - Kilimatinde,Moita , Kilimatinde,, Kilimatinde,,
-166,5,Moita -lolkisale Junction,Moita ,lolkisale Junction,,lolkisale Junction,,
-167,6,Lolkisale - Sofa,Lolkisale , Sofa,, Sofa,,
-168,7,Mguu Wa Zuberi - Lepurko,Mguu Wa Zuberi , Lepurko,, Lepurko,,
-169,8,Dodoma Road - Naitolia,Dodoma Road , Naitolia,, Naitolia,,
-170,9,Barabarani - Mlimani,Barabarani , Mlimani,, Mlimani,,
-171,10,Barabarani - Jangwani,Barabarani , Jangwani,, Jangwani,,
-172,11,Barabarani - Migombani,Barabarani , Migombani,, Migombani,,
-173,12,Barabarani - Majengo,Barabarani , Majengo,, Majengo,,
-176,13,Lendikinya - Alkaria Shuleni,Lendikinya , Alkaria Shuleni,, Alkaria Shuleni,,
-177,14,Naitolia - Tree Tops,Naitolia , Tree Tops,, Tree Tops,,
-178,15,Selela - Mbaash,Selela , Mbaash,, Mbaash,,
-179,16,Mirongoine Road,Mirongoine Road,,,,,
-180,17,Noondoto Jct - Mereji,Noondoto Jct , Mereji,, Mereji,,
-181,18,Lepurko - Mbaash,Lepurko , Mbaash,, Mbaash,,
-182,19,Makuyuni - Lolkisale,Makuyuni , Lolkisale,, Lolkisale,,
-183,20,Emairete - Alkaria - Lepurko,Emairete , Alkaria , Lepurko, Lepurko, Alkaria ,
-184,21,Dodoma Road - Mswakini Juu,Dodoma Road , Mswakini Juu,, Mswakini Juu,,
-185,22,Dodoma Road - Mswakini Chini,Dodoma Road , Mswakini Chini,, Mswakini Chini,,
-186,23,Lolkisale - Ndukusi - Mirongoine,Lolkisale , Ndukusi , Mirongoine, Mirongoine, Ndukusi ,
-187,24,Esilalei - Oltukai,Esilalei , Oltukai,, Oltukai,,
-188,25,Emairete - Eluwai - Ilmorijo,Emairete , Eluwai , Ilmorijo, Ilmorijo, Eluwai ,
-189,26,Kipok - Naalarami,Kipok , Naalarami,, Naalarami,,
-190,27,Ukame Jct - Gelai Bomba,Ukame Jct , Gelai Bomba,, Gelai Bomba,,
-196,28,Moita - Oljoro,Moita , Oljoro,, Oljoro,,
-197,29,Makuyuni - Mky1,Makuyuni , Mky1,, Mky1,,
-200,30,Enguik - Olesokoine,Enguik , Olesokoine,, Olesokoine,,
-201,31,Lodung'oro - Irkeeswa,Lodung'oro , Irkeeswa,, Irkeeswa,,
-202,32,Monduli - Tarasero,Monduli , Tarasero,, Tarasero,,
-203,33,Dodoma Jct - Loosimingori,Dodoma Jct , Loosimingori,, Loosimingori,,
-204,34,Meserani Chini - Kipok,Meserani Chini , Kipok,, Kipok,,
-205,35,Meserani Juu - Kipok,Meserani Juu , Kipok,, Kipok,,
-206,36,Dodoma Jct - Eng'arooji,Dodoma Jct , Eng'arooji,, Eng'arooji,,
-207,37,Dodoma Jct - Orkisima,Dodoma Jct , Orkisima,, Orkisima,,
-208,38,Engaruka Chini - Engaruka Juu,Engaruka Chini , Engaruka Juu,, Engaruka Juu,,
-209,39,Kigongoni - Mungere,Kigongoni , Mungere,, Mungere,,
-212,40,Mw/1,Mw/1,,,,,
-213,41,Mw/2,Mw/2,,,,,
-214,42,Mw/3,Mw/3,,,,,
-215,43,Mw/4,Mw/4,,,,,
-216,44,Mw/5,Mw/5,,,,,
-217,45,Mk/1,Mk/1,,,,,
-218,46,Mk/2,Mk/2,,,,,
-219,47,Mk/3,Mk/3,,,,,
-220,48,Mk/4,Mk/4,,,,,
-221,49,Mk/5,Mk/5,,,,,
-222,50,Mk/6,Mk/6,,,,,
-223,51,Mk/7,Mk/7,,,,,
-224,52,Mk/8,Mk/8,,,,,
-225,53,Mo/1,Mo/1,,,,,
-226,54,Mo/2,Mo/2,,,,,
-227,55,Mo/3,Mo/3,,,,,
-228,56,Mo/4,Mo/4,,,,,
-229,57,Mo/5,Mo/5,,,,,
-230,58,Mo/6,Mo/6,,,,,
-231,59,Mo/7,Mo/7,,,,,
-232,60,Mo/8,Mo/8,,,,,
-233,61,Mo/9,Mo/9,,,,,
-234,62,Mo/10,Mo/10,,,,,
-235,63,Mo/11,Mo/11,,,,,
-236,64,Mo/12,Mo/12,,,,,
-237,65,Mo/13,Mo/13,,,,,
-238,66,Mo/14,Mo/14,,,,,
-239,67,Mo/15,Mo/15,,,,,
-240,68,Mo/16,Mo/16,,,,,
-241,69,Mo/17,Mo/17,,,,,
-242,70,Mo/18,Mo/18,,,,,
-243,71,Mo/19,Mo/19,,,,,
-244,72,Mo/20,Mo/20,,,,,
-245,73,Mo/21,Mo/21,,,,,
-246,74,Mo/22,Mo/22,,,,,
-247,75,Mo/23,Mo/23,,,,,
-248,76,Mo/24,Mo/24,,,,,
-249,77,Mo/25,Mo/25,,,,,
-250,78,Mo/26,Mo/26,,,,,
-251,79,Mo/27,Mo/27,,,,,
-252,80,Police - Olarash,Police , Olarash,, Olarash,,
-261,81,Longido - Kiseriani,Longido , Kiseriani,, Kiseriani,,
-262,82,Longido - Lesing'ita - Mairouwa,Longido , Lesing'ita , Mairouwa, Mairouwa, Lesing'ita ,
-263,83,Mairouwa - Matale A - Emurutoto,Mairouwa , Matale A , Emurutoto, Emurutoto, Matale A ,
-264,84,Sinya Jct - Tingatinga - Hai Boundary,Sinya Jct , Tingatinga , Hai Boundary, Hai Boundary, Tingatinga ,
-267,0,Namanga - Olmolog,Namanga , Olmolog,, Olmolog,,
-268,85,Engikaret - Tingatinga,Engikaret , Tingatinga,, Tingatinga,,
-269,86,Longido - Tingatinga - Siha,Longido , Tingatinga , Siha, Siha, Tingatinga ,
-275,87,Ketumbeine Jct - Gelailumbwa,Ketumbeine Jct , Gelailumbwa,, Gelailumbwa,,
-276,88,Ketumbeine Jct - Losirwa - Iloriento,Ketumbeine Jct , Losirwa , Iloriento, Iloriento, Losirwa ,
-277,89,Kitumbeine - Gelai Meirugoi,Kitumbeine , Gelai Meirugoi,, Gelai Meirugoi,,
-278,90,Lesing'ita - Mundarara,Lesing'ita , Mundarara,, Mundarara,,
-279,91,Sinya Jct - Sinya,Sinya Jct , Sinya,, Sinya,,
-280,92,Longido - Sinya Jct,Longido , Sinya Jct,, Sinya Jct,,
-281,93,Sinya - Elerai,Sinya , Elerai,, Elerai,,
-284,94,Losirwa - Ilorento,Losirwa , Ilorento,, Ilorento,,
-285,95,Tingatinga - Sinya,Tingatinga , Sinya,, Sinya,,
-286,96,Lumbwa - Alaililai,Lumbwa , Alaililai,, Alaililai,,
-287,97,Namanga - Sinonik - Mairouwa,Namanga , Sinonik , Mairouwa, Mairouwa, Sinonik ,
-288,98,Ketumbeine - Elang'atadapash,Ketumbeine , Elang'atadapash,, Elang'atadapash,,
-289,99,Engikaret - Kiseriani - Ketumbeine,Engikaret , Kiseriani , Ketumbeine, Ketumbeine, Kiseriani ,
-290,100,Merugoi - Magadini,Merugoi , Magadini,, Magadini,,
-291,101,Sinoniki - Kimwati,Sinoniki , Kimwati,, Kimwati,,
-292,102,Noondoto - Elang'atadapash,Noondoto , Elang'atadapash,, Elang'atadapash,,
-293,103,Ketumbeine - Noondoto,Ketumbeine , Noondoto,, Noondoto,,
-294,104,Ortinga - Mundarara,Ortinga , Mundarara,, Mundarara,,
-297,105,Longido Town Roads,Longido Town Roads,,,,,
-298,106,Namanga Town Roads,Namanga Town Roads,,,,,
-307,1,Olemesuit-loliondo-kleins Camp,Olemesuit,loliondo,kleins Camp,kleins Camp,loliondo,
-308,2,Soitsambu-njoroi,Soitsambu,njoroi,,njoroi,,
-309,3,Wasso-oloipiri,Wasso,oloipiri,,oloipiri,,
-310,4,Olorien-magaidiru-mgongo,Olorien,magaidiru,mgongo,mgongo,magaidiru,
-311,5,Mgongo- Samunge,Mgongo, Samunge,, Samunge,,
-312,6,Mdito- Digodigo- Oldonyosambu,Mdito, Digodigo, Oldonyosambu, Oldonyosambu, Digodigo,
-313,7,Oldonyosambu - Masusu - Sale,Oldonyosambu , Masusu , Sale, Sale, Masusu ,
-314,8,Wasso - Hospital,Wasso , Hospital,, Hospital,,
-315,9,Sakala - Loliondo,Sakala , Loliondo,, Loliondo,,
-316,10,Prison Road,Prison Road,,,,,
-317,11,Oldoyowas-oldonyorok- Olduvai,Oldoyowas,oldonyorok, Olduvai, Olduvai,oldonyorok,
-318,12,Loliondo- Tinaga Jcnt,Loliondo, Tinaga Jcnt,, Tinaga Jcnt,,
-319,13,Loliondo- Ngárwa-digodigo,Loliondo, Ngárwa,digodigo,digodigo, Ngárwa,
-320,14,Digodigo- Kisangiro,Digodigo, Kisangiro,, Kisangiro,,
-321,15,Sale- Malambo- Olbalbal,Sale, Malambo, Olbalbal, Olbalbal, Malambo,
-322,16,Ngorongoro- Osioni- Kakesio,Ngorongoro, Osioni, Kakesio, Kakesio, Osioni,
-323,17,Ngorongoro- Nainokanoka- Nayobi,Ngorongoro, Nainokanoka, Nayobi, Nayobi, Nainokanoka,
-326,18,Ormanie - Piyaya,Ormanie , Piyaya,, Piyaya,,
-327,19,Soitsambu - Oloipiri,Soitsambu , Oloipiri,, Oloipiri,,
-328,20,Masusu-pinyinyi,Masusu,pinyinyi,,pinyinyi,,
-333,21,Ngarasero- Monic- Pinyinyi,Ngarasero, Monic, Pinyinyi, Pinyinyi, Monic,
-334,22,Wasso- Locit,Wasso, Locit,, Locit,,
-335,23,Kitui Road,Kitui Road,,,,,
-336,24,Lr-1,Lr,1,,1,,
-337,25,Cultural Boma- Olbalbal,Cultural Boma, Olbalbal,, Olbalbal,,
-338,26,Embakai- Kapenjiro,Embakai, Kapenjiro,, Kapenjiro,,
-341,27,Kibaoni - Arash,Kibaoni , Arash,, Arash,,
-342,28,Oldonyosambu -jema,Oldonyosambu ,jema,,jema,,
-343,29,Oldonyowas Primary  Road,Oldonyowas Primary  Road,,,,,
-352,1,Njiapanda-mang'ola,Njiapanda,mang'ola,,mang'ola,,
-353,2,Tfa - Oldeani,Tfa , Oldeani,, Oldeani,,
-354,3,Kansay - Laja,Kansay , Laja,, Laja,,
-355,4,Endabash - Buger - Kansay,Endabash , Buger , Kansay, Kansay, Buger ,
-356,5,Endabash - Qaru,Endabash , Qaru,, Qaru,,
-357,6,Qaru - Manyara,Qaru , Manyara,, Manyara,,
-358,7,Manyara - K/simba - Lositeti,Manyara , K/simba , Lositeti, Lositeti, K/simba ,
-359,8,Rhotia - K/simba,Rhotia , K/simba,, K/simba,,
-360,9,Rhotia - Chemchem,Rhotia , Chemchem,, Chemchem,,
-361,10,Hospital Road,Hospital Road,,,,,
-362,11,Gibb's Road,Gibb's Road,,,,,
-363,12,Nmc Road,Nmc Road,,,,,
-364,13,Endarofta Road,Endarofta Road,,,,,
-365,14,Endamarariek - Basodawish,Endamarariek , Basodawish,, Basodawish,,
-366,15,Endamarariek - Getamock,Endamarariek , Getamock,, Getamock,,
-367,16,Karatu - Ayalabe,Karatu , Ayalabe,, Ayalabe,,
-368,17,Ayalabe - Ganaco,Ayalabe , Ganaco,, Ganaco,,
-371,18,Bashay - Qurus,Bashay , Qurus,, Qurus,,
-377,19,Mang'ola Baraza - Malekehand -langangarer,Mang'ola Baraza , Malekehand ,langangarer,langangarer, Malekehand ,
-378,20,Mang'ola Magorofa - Endamaghan,Mang'ola Magorofa , Endamaghan,, Endamaghan,,
-379,21,Oldean Mang'ola Juu - Makhoromba,Oldean Mang'ola Juu , Makhoromba,, Makhoromba,,
-380,22,Makhoromba - Mang'ola Magorofan Jct,Makhoromba , Mang'ola Magorofan Jct,, Mang'ola Magorofan Jct,,
-381,23,Changarawe - Endashangwet,Changarawe , Endashangwet,, Endashangwet,,
-382,24,Karatu - Gongali - Qurus,Karatu , Gongali , Qurus, Qurus, Gongali ,
-383,25,Kambi Ya Nyoka,Kambi Ya Nyoka,,,,,
-384,26,Upper Kitete - Kambi Ya Simba,Upper Kitete , Kambi Ya Simba,, Kambi Ya Simba,,
-385,27,Karatu - Ngila,Karatu , Ngila,, Ngila,,
-393,28,Krt - 1,Krt ,1,,1,,
-394,29,Krt - 2,Krt ,2,,2,,
-395,30,Krt - 3,Krt ,3,,3,,
-396,31,Krt - 4,Krt ,4,,4,,
-397,32,Krt - 5,Krt ,5,,5,,
-398,33,Krt - 6,Krt ,6,,6,,
-399,34,Krt - 7,Krt ,7,,7,,
-400,35,Krt - 8,Krt ,8,,8,,
-401,36,Krt - 9,Krt ,9,,9,,
-402,37,Krt - 10,Krt ,10,,10,,
-403,38,Krt - 11,Krt ,11,,11,,
-404,39,Krt - 12,Krt ,12,,12,,
-405,40,Krt - 13,Krt ,13,,13,,
-406,41,Krt - 14,Krt ,14,,14,,
-407,42,Krt - 15,Krt ,15,,15,,
-408,43,Krt - 16,Krt ,16,,16,,
-409,44,Krt - 17,Krt ,17,,17,,
-410,45,Krt - 18,Krt ,18,,18,,
-411,46,Krt - 19,Krt ,19,,19,,
-412,47,Krt - 20,Krt ,20,,20,,
-413,48,Krt - 21,Krt ,21,,21,,
-414,49,Krt - 22,Krt ,22,,22,,
-415,50,Krt - 23,Krt ,23,,23,,
-416,51,Krt - 24,Krt ,24,,24,,
-417,52,Krt - 25,Krt ,25,,25,,
-418,53,Krt - 26,Krt ,26,,26,,
-419,54,Krt - 27,Krt ,27,,27,,
-420,55,Krt - 28,Krt ,28,,28,,
-421,56,Krt - 29,Krt ,29,,29,,
-422,57,Krt - 30,Krt ,30,,30,,
-423,58,Krt - 31,Krt ,31,,31,,
-424,59,Krt - 32,Krt ,32,,32,,
-425,60,Krt - 33,Krt ,33,,33,,
-426,61,Krt - 34,Krt ,34,,34,,
-427,62,Krt - 35,Krt ,35,,35,,
-428,63,Krt - 36,Krt ,36,,36,,
-429,64,Krt - 37,Krt ,37,,37,,
-430,65,Krt - 38,Krt ,38,,38,,
-431,66,Krt - 39,Krt ,39,,39,,
-432,67,Krt - 40,Krt ,40,,40,,
-433,68,Krt - 41,Krt ,41,,41,,
-434,69,Krt - 42,Krt ,42,,42,,
-435,70,Krt - 43,Krt ,43,,43,,
-436,71,Krt - 44,Krt ,44,,44,,
-437,72,Krt - 45,Krt ,45,,45,,
-438,73,Krt - 46,Krt ,46,,46,,
-439,74,Krt - 47,Krt ,47,,47,,
-440,75,Krt - 48,Krt ,48,,48,,
-441,76,Krt - 49,Krt ,49,,49,,
-442,77,Krt - 50,Krt ,50,,50,,
-443,78,Krt - 51,Krt ,51,,51,,
-444,79,Krt - 52,Krt ,52,,52,,
-445,80,Krt - 53,Krt ,53,,53,,
-446,81,Krt - 54,Krt ,54,,54,,
-447,82,Krt - 55,Krt ,55,,55,,
-448,83,Krt - 56,Krt ,56,,56,,
-449,84,Krt - 57,Krt ,57,,57,,
-450,85,Krt - 58,Krt ,58,,58,,
-451,86,Krt - 59,Krt ,59,,59,,
-452,87,Krt - 60,Krt ,60,,60,,
-453,88,Krt - 61,Krt ,61,,61,,
-456,89,New Trading Center At Njiapanda,New Trading Center At Njiapanda,,,,,
+,,,Start Node,mVia,mEnd Node,End Node,Via,District
+1,1,Malalua - Nduruma - Bwawani,Malalua , Nduruma , Bwawani, Bwawani, Nduruma ,Arusha
+2,2,Sokon Ii - Sasi - Ambureni,Sokon Ii , Sasi , Ambureni, Ambureni, Sasi ,Arusha
+3,3,Tpri - Likamba,Tpri , Likamba,, Likamba,,Arusha
+4,4,Mianzini - Timbolo,Mianzini , Timbolo,, Timbolo,,Arusha
+5,5,Sanawari - Oldonyosapuk,Sanawari , Oldonyosapuk,, Oldonyosapuk,,Arusha
+6,6,Sekei - Olgilai - Kimandolo,Sekei , Olgilai , Kimandolo, Kimandolo, Olgilai ,Arusha
+9,7,Ilkiding'a - Sambasha,Ilkiding'a , Sambasha,, Sambasha,,Arusha
+10,8,Lengijave - Kisimiri,Lengijave , Kisimiri,, Kisimiri,,Arusha
+11,9,Sokon Ii - Oldadai - Midawe,Sokon Ii , Oldadai , Midawe, Midawe, Oldadai ,Arusha
+12,10,Arusha Airport - Ngaramtoni,Arusha Airport , Ngaramtoni,, Ngaramtoni,,Arusha
+13,11,Likamba - Imbibia,Likamba , Imbibia,, Imbibia,,Arusha
+14,12,Kisongo - Musa,Kisongo , Musa,, Musa,,Arusha
+15,13,Gomba Estate - Msitu Wa Mbogo,Gomba Estate , Msitu Wa Mbogo,, Msitu Wa Mbogo,,Arusha
+16,14,Olturoto - Mringa,Olturoto , Mringa,, Mringa,,Arusha
+21,15,Oljoro - Ujamaa Village,Oljoro , Ujamaa Village,, Ujamaa Village,,Arusha
+22,16,Mbuyuni - Mirongoine,Mbuyuni , Mirongoine,, Mirongoine,,Arusha
+23,17,Kisongo - Lemugur,Kisongo , Lemugur,, Lemugur,,Arusha
+24,18,Kilimamoto - Mwandet,Kilimamoto , Mwandet,, Mwandet,,Arusha
+25,19,Oldonyosambu - Gigas,Oldonyosambu , Gigas,, Gigas,,Arusha
+26,20,Ndiyogi - Olkokola,Ndiyogi , Olkokola,, Olkokola,,Arusha
+27,21,Radio Habari Maalum - Olturumet Hospital,Radio Habari Maalum , Olturumet Hospital,, Olturumet Hospital,,Arusha
+28,22,Ngaramtoni - Selian,Ngaramtoni , Selian,, Selian,,Arusha
+29,23,Ngaramtoni - Sambasha,Ngaramtoni , Sambasha,, Sambasha,,Arusha
+30,24,Sanawari - Ilboru,Sanawari , Ilboru,, Ilboru,,Arusha
+33,25,Sanawari - Kioga,Sanawari , Kioga,, Kioga,,Arusha
+34,26,Lengijave - Mwandet,Lengijave , Mwandet,, Mwandet,,Arusha
+35,27,Olgilai - Ng'iresi,Olgilai , Ng'iresi,, Ng'iresi,,Arusha
+36,28,Lengijave - Engalaoni,Lengijave , Engalaoni,, Engalaoni,,Arusha
+37,29,Olgilai - Sokon Ii - Kimandolu,Olgilai , Sokon Ii , Kimandolu, Kimandolu, Sokon Ii ,Arusha
+38,30,Odonyosambu - Kikosi Cha Rada,Odonyosambu , Kikosi Cha Rada,, Kikosi Cha Rada,,Arusha
+39,31,Arusha Meat - Olosiva,Arusha Meat , Olosiva,, Olosiva,,Arusha
+40,32,Silent Inn - Freedom Hotel,Silent Inn , Freedom Hotel,, Freedom Hotel,,Arusha
+41,33,Oldonyowas - Forest,Oldonyowas , Forest,, Forest,,Arusha
+42,34,Kilimamoto - Olturumet Hospital,Kilimamoto , Olturumet Hospital,, Olturumet Hospital,,Arusha
+43,35,Kilimamoto - Kisongo,Kilimamoto , Kisongo,, Kisongo,,Arusha
+52,1,Ambureni-nkoanrua,Ambureni,nkoanrua,,nkoanrua,,Arusha
+53,2,Patandi –akheri –ndoombo,Patandi –akheri –ndoombo,,,,,Arusha
+54,3,Akheri – Nkoanrua,Akheri – Nkoanrua,,,,,Arusha
+55,4,Sing’isi-seela-forest,Sing’isi,seela,forest,forest,seela,Arusha
+56,5,Kilala-nkoaranga,Kilala,nkoaranga,,nkoaranga,,Arusha
+57,6,Leganga – Songoro,Leganga – Songoro,,,,,Arusha
+58,7,M/chai-sakila-kikatiti,M/chai,sakila,kikatiti,kikatiti,sakila,Arusha
+59,8,Kikatiti-makiba,Kikatiti,makiba,,makiba,,Arusha
+60,9,Mbuguni- Cairo,Mbuguni, Cairo,, Cairo,,Arusha
+61,10,Manyata- Kikwe,Manyata, Kikwe,, Kikwe,,Arusha
+62,11,Malula-leguruki-nkoasenga,Malula,leguruki,nkoasenga,nkoasenga,leguruki,Arusha
+63,12,Leguruki-ngarenanyuki,Leguruki,ngarenanyuki,,ngarenanyuki,,Arusha
+64,13,Poli-seela(sing’isi),Poli,seela(sing’isi),,seela(sing’isi),,Arusha
+65,14,Seela-kimundo,Seela,kimundo,,kimundo,,Arusha
+66,15,Kwa Pole – Nkoanrua,Kwa Pole – Nkoanrua,,,,,Arusha
+67,16,Machumba-nkoanrua,Machumba,nkoanrua,,nkoanrua,,Arusha
+68,17,Camartec-maweni,Camartec,maweni,,maweni,,Arusha
+69,18,Tengeru-nambala,Tengeru,nambala,,nambala,,Arusha
+72,19,Sawmill-sura,Sawmill,sura,,sura,,Arusha
+73,20,Makumira –uraki,Makumira –uraki,,,,,Arusha
+74,21,Nkoaranga - Kilinga,Nkoaranga , Kilinga,, Kilinga,,Arusha
+79,22,Nkoanrua-ulong’a-oldadai,Nkoanrua,ulong’a,oldadai,oldadai,ulong’a,Arusha
+80,23,Patandi-kimundo,Patandi,kimundo,,kimundo,,Arusha
+83,24,Sangisi-carmatec,Sangisi,carmatec,,carmatec,,Arusha
+84,25,Ngarenanyuki-ngabobo,Ngarenanyuki,ngabobo,,ngabobo,,Arusha
+85,26,Laketatu-sioni,Laketatu,sioni,,sioni,,Arusha
+86,27,Msorongo Road,Msorongo Road,,,,,Arusha
+87,28,Msitu Wa Mbogo-kikuletwa,Msitu Wa Mbogo,kikuletwa,,kikuletwa,,Arusha
+88,29,Kikatiti-ngyeku,Kikatiti,ngyeku,,ngyeku,,Arusha
+89,30,Kikatiti-samalia,Kikatiti,samalia,,samalia,,Arusha
+90,31,Kitefu-sakila,Kitefu,sakila,,sakila,,Arusha
+91,32,Maji Ya Chai-valensika,Maji Ya Chai,valensika,,valensika,,Arusha
+92,33,Maji Ya Chai-kitefu,Maji Ya Chai,kitefu,,kitefu,,Arusha
+93,34,Kwa Aloyse-embaseni,Kwa Aloyse,embaseni,,embaseni,,Arusha
+94,35,Kolila-ngejisosia,Kolila,ngejisosia,,ngejisosia,,Arusha
+98,36,Police Quarter-muungano Road,Police Quarter,muungano Road,,muungano Road,,Arusha
+99,37,Lelo –site Road,Lelo –site Road,,,,,Arusha
+100,38,Makamba Road,Makamba Road,,,,,Arusha
+101,39,Mipango Road,Mipango Road,,,,,Arusha
+102,40,Asha Road,Asha Road,,,,,Arusha
+103,41,Rotadam - Site,Rotadam , Site,, Site,,Arusha
+104,42,Samora Road,Samora Road,,,,,Arusha
+105,43,Lyimo Road,Lyimo Road,,,,,Arusha
+106,44,Ben Road,Ben Road,,,,,Arusha
+107,45,Mndolwa Road,Mndolwa Road,,,,,Arusha
+108,46,Mamy Road,Mamy Road,,,,,Arusha
+109,47,Young Roses Road,Young Roses Road,,,,,Arusha
+110,48,Youg Roses Junction,Youg Roses Junction,,,,,Arusha
+111,49,Mamlaka Road,Mamlaka Road,,,,,Arusha
+112,50,Ded Road,Ded Road,,,,,Arusha
+113,51,Mamlaka Junction,Mamlaka Junction,,,,,Arusha
+114,52,Mandela Road,Mandela Road,,,,,Arusha
+115,53,Jaluo Road,Jaluo Road,,,,,Arusha
+116,54,Mafia Street,Mafia Street,,,,,Arusha
+117,55,Tesha Road,Tesha Road,,,,,Arusha
+118,56,Usalama Road,Usalama Road,,,,,Arusha
+119,57,Kanisa Road,Kanisa Road,,,,,Arusha
+120,58,Msechu Road,Msechu Road,,,,,Arusha
+121,59,Chonjo Road,Chonjo Road,,,,,Arusha
+122,60,Makongo Road,Makongo Road,,,,,Arusha
+123,61,Leganga - Ngarasero,Leganga , Ngarasero,, Ngarasero,,Arusha
+124,62,Kisambare - Biashara House,Kisambare , Biashara House,, Biashara House,,Arusha
+125,63,Tandale Junction - Kwa Kiko,Tandale Junction , Kwa Kiko,, Kwa Kiko,,Arusha
+126,64,Tandale Junction - Kisambare Dyss,Tandale Junction , Kisambare Dyss,, Kisambare Dyss,,Arusha
+127,65,Kisambare Junction - Dyss,Kisambare Junction , Dyss,, Dyss,,Arusha
+128,66,Biashara Road-kisambare Junction,Biashara Road,kisambare Junction,,kisambare Junction,,Arusha
+129,67,Msimbati Road,Msimbati Road,,,,,Arusha
+130,68,Tanesco Road,Tanesco Road,,,,,Arusha
+131,69,Babtist Road,Babtist Road,,,,,Arusha
+132,70,Upendo Road,Upendo Road,,,,,Arusha
+133,71,Umale Road,Umale Road,,,,,Arusha
+134,72,Malisa Road,Malisa Road,,,,,Arusha
+135,73,Kimaro Road,Kimaro Road,,,,,Arusha
+136,74,Malisa Junction – Tanesco,Malisa Junction – Tanesco,,,,,Arusha
+137,75,Posta Road,Posta Road,,,,,Arusha
+138,76,Kituo Cha Afya Road,Kituo Cha Afya Road,,,,,Arusha
+139,77,Miembeni Road,Miembeni Road,,,,,Arusha
+140,78,Tandale Road,Tandale Road,,,,,Arusha
+141,79,Dyss Road,Dyss Road,,,,,Arusha
+142,80,Kkkt Road,Kkkt Road,,,,,Arusha
+143,81,Biashara House-kilimo,Biashara House,kilimo,,kilimo,,Arusha
+144,82,Meru Mills Road,Meru Mills Road,,,,,Arusha
+145,83,Rhino Road,Rhino Road,,,,,Arusha
+146,84,Simba Grills Road,Simba Grills Road,,,,,Arusha
+147,85,Msikiti Road,Msikiti Road,,,,,Arusha
+148,86,Africando Road,Africando Road,,,,,Arusha
+149,87,Africando Junction-stand,Africando Junction,stand,,stand,,Arusha
+150,88,Usa Health Centre,Usa Health Centre,,,,,Arusha
+151,89,Magadirisho-usa,Magadirisho,usa,,usa,,Arusha
+152,90,Ngarasero-machinjioni,Ngarasero,machinjioni,,machinjioni,,Arusha
+153,91,Mkusa Road,Mkusa Road,,,,,Arusha
+162,1,Monduli - Alkaria - Mti Mmoja,Monduli , Alkaria , Mti Mmoja, Mti Mmoja, Alkaria ,Arusha
+163,2,Lashaine - Arkatan - Monduli,Lashaine , Arkatan , Monduli, Monduli, Arkatan ,Arusha
+164,3,Kisongo - Moita Bwawani,Kisongo , Moita Bwawani,, Moita Bwawani,,Arusha
+165,4,Moita - Kilimatinde,Moita , Kilimatinde,, Kilimatinde,,Arusha
+166,5,Moita -lolkisale Junction,Moita ,lolkisale Junction,,lolkisale Junction,,Arusha
+167,6,Lolkisale - Sofa,Lolkisale , Sofa,, Sofa,,Arusha
+168,7,Mguu Wa Zuberi - Lepurko,Mguu Wa Zuberi , Lepurko,, Lepurko,,Arusha
+169,8,Dodoma Road - Naitolia,Dodoma Road , Naitolia,, Naitolia,,Arusha
+170,9,Barabarani - Mlimani,Barabarani , Mlimani,, Mlimani,,Arusha
+171,10,Barabarani - Jangwani,Barabarani , Jangwani,, Jangwani,,Arusha
+172,11,Barabarani - Migombani,Barabarani , Migombani,, Migombani,,Arusha
+173,12,Barabarani - Majengo,Barabarani , Majengo,, Majengo,,Arusha
+176,13,Lendikinya - Alkaria Shuleni,Lendikinya , Alkaria Shuleni,, Alkaria Shuleni,,Arusha
+177,14,Naitolia - Tree Tops,Naitolia , Tree Tops,, Tree Tops,,Arusha
+178,15,Selela - Mbaash,Selela , Mbaash,, Mbaash,,Arusha
+179,16,Mirongoine Road,Mirongoine Road,,,,,Arusha
+180,17,Noondoto Jct - Mereji,Noondoto Jct , Mereji,, Mereji,,Arusha
+181,18,Lepurko - Mbaash,Lepurko , Mbaash,, Mbaash,,Arusha
+182,19,Makuyuni - Lolkisale,Makuyuni , Lolkisale,, Lolkisale,,Arusha
+183,20,Emairete - Alkaria - Lepurko,Emairete , Alkaria , Lepurko, Lepurko, Alkaria ,Arusha
+184,21,Dodoma Road - Mswakini Juu,Dodoma Road , Mswakini Juu,, Mswakini Juu,,Arusha
+185,22,Dodoma Road - Mswakini Chini,Dodoma Road , Mswakini Chini,, Mswakini Chini,,Arusha
+186,23,Lolkisale - Ndukusi - Mirongoine,Lolkisale , Ndukusi , Mirongoine, Mirongoine, Ndukusi ,Arusha
+187,24,Esilalei - Oltukai,Esilalei , Oltukai,, Oltukai,,Arusha
+188,25,Emairete - Eluwai - Ilmorijo,Emairete , Eluwai , Ilmorijo, Ilmorijo, Eluwai ,Arusha
+189,26,Kipok - Naalarami,Kipok , Naalarami,, Naalarami,,Arusha
+190,27,Ukame Jct - Gelai Bomba,Ukame Jct , Gelai Bomba,, Gelai Bomba,,Arusha
+196,28,Moita - Oljoro,Moita , Oljoro,, Oljoro,,Arusha
+197,29,Makuyuni - Mky1,Makuyuni , Mky1,, Mky1,,Arusha
+200,30,Enguik - Olesokoine,Enguik , Olesokoine,, Olesokoine,,Arusha
+201,31,Lodung'oro - Irkeeswa,Lodung'oro , Irkeeswa,, Irkeeswa,,Arusha
+202,32,Monduli - Tarasero,Monduli , Tarasero,, Tarasero,,Arusha
+203,33,Dodoma Jct - Loosimingori,Dodoma Jct , Loosimingori,, Loosimingori,,Arusha
+204,34,Meserani Chini - Kipok,Meserani Chini , Kipok,, Kipok,,Arusha
+205,35,Meserani Juu - Kipok,Meserani Juu , Kipok,, Kipok,,Arusha
+206,36,Dodoma Jct - Eng'arooji,Dodoma Jct , Eng'arooji,, Eng'arooji,,Arusha
+207,37,Dodoma Jct - Orkisima,Dodoma Jct , Orkisima,, Orkisima,,Arusha
+208,38,Engaruka Chini - Engaruka Juu,Engaruka Chini , Engaruka Juu,, Engaruka Juu,,Arusha
+209,39,Kigongoni - Mungere,Kigongoni , Mungere,, Mungere,,Arusha
+212,40,Mw/1,Mw/1,,,,,Arusha
+213,41,Mw/2,Mw/2,,,,,Arusha
+214,42,Mw/3,Mw/3,,,,,Arusha
+215,43,Mw/4,Mw/4,,,,,Arusha
+216,44,Mw/5,Mw/5,,,,,Arusha
+217,45,Mk/1,Mk/1,,,,,Arusha
+218,46,Mk/2,Mk/2,,,,,Arusha
+219,47,Mk/3,Mk/3,,,,,Arusha
+220,48,Mk/4,Mk/4,,,,,Arusha
+221,49,Mk/5,Mk/5,,,,,Arusha
+222,50,Mk/6,Mk/6,,,,,Arusha
+223,51,Mk/7,Mk/7,,,,,Arusha
+224,52,Mk/8,Mk/8,,,,,Arusha
+225,53,Mo/1,Mo/1,,,,,Arusha
+226,54,Mo/2,Mo/2,,,,,Arusha
+227,55,Mo/3,Mo/3,,,,,Arusha
+228,56,Mo/4,Mo/4,,,,,Arusha
+229,57,Mo/5,Mo/5,,,,,Arusha
+230,58,Mo/6,Mo/6,,,,,Arusha
+231,59,Mo/7,Mo/7,,,,,Arusha
+232,60,Mo/8,Mo/8,,,,,Arusha
+233,61,Mo/9,Mo/9,,,,,Arusha
+234,62,Mo/10,Mo/10,,,,,Arusha
+235,63,Mo/11,Mo/11,,,,,Arusha
+236,64,Mo/12,Mo/12,,,,,Arusha
+237,65,Mo/13,Mo/13,,,,,Arusha
+238,66,Mo/14,Mo/14,,,,,Arusha
+239,67,Mo/15,Mo/15,,,,,Arusha
+240,68,Mo/16,Mo/16,,,,,Arusha
+241,69,Mo/17,Mo/17,,,,,Arusha
+242,70,Mo/18,Mo/18,,,,,Arusha
+243,71,Mo/19,Mo/19,,,,,Arusha
+244,72,Mo/20,Mo/20,,,,,Arusha
+245,73,Mo/21,Mo/21,,,,,Arusha
+246,74,Mo/22,Mo/22,,,,,Arusha
+247,75,Mo/23,Mo/23,,,,,Arusha
+248,76,Mo/24,Mo/24,,,,,Arusha
+249,77,Mo/25,Mo/25,,,,,Arusha
+250,78,Mo/26,Mo/26,,,,,Arusha
+251,79,Mo/27,Mo/27,,,,,Arusha
+252,80,Police - Olarash,Police , Olarash,, Olarash,,Arusha
+261,81,Longido - Kiseriani,Longido , Kiseriani,, Kiseriani,,Arusha
+262,82,Longido - Lesing'ita - Mairouwa,Longido , Lesing'ita , Mairouwa, Mairouwa, Lesing'ita ,Arusha
+263,83,Mairouwa - Matale A - Emurutoto,Mairouwa , Matale A , Emurutoto, Emurutoto, Matale A ,Arusha
+264,84,Sinya Jct - Tingatinga - Hai Boundary,Sinya Jct , Tingatinga , Hai Boundary, Hai Boundary, Tingatinga ,Arusha
+267,0,Namanga - Olmolog,Namanga , Olmolog,, Olmolog,,Arusha
+268,85,Engikaret - Tingatinga,Engikaret , Tingatinga,, Tingatinga,,Arusha
+269,86,Longido - Tingatinga - Siha,Longido , Tingatinga , Siha, Siha, Tingatinga ,Arusha
+275,87,Ketumbeine Jct - Gelailumbwa,Ketumbeine Jct , Gelailumbwa,, Gelailumbwa,,Arusha
+276,88,Ketumbeine Jct - Losirwa - Iloriento,Ketumbeine Jct , Losirwa , Iloriento, Iloriento, Losirwa ,Arusha
+277,89,Kitumbeine - Gelai Meirugoi,Kitumbeine , Gelai Meirugoi,, Gelai Meirugoi,,Arusha
+278,90,Lesing'ita - Mundarara,Lesing'ita , Mundarara,, Mundarara,,Arusha
+279,91,Sinya Jct - Sinya,Sinya Jct , Sinya,, Sinya,,Arusha
+280,92,Longido - Sinya Jct,Longido , Sinya Jct,, Sinya Jct,,Arusha
+281,93,Sinya - Elerai,Sinya , Elerai,, Elerai,,Arusha
+284,94,Losirwa - Ilorento,Losirwa , Ilorento,, Ilorento,,Arusha
+285,95,Tingatinga - Sinya,Tingatinga , Sinya,, Sinya,,Arusha
+286,96,Lumbwa - Alaililai,Lumbwa , Alaililai,, Alaililai,,Arusha
+287,97,Namanga - Sinonik - Mairouwa,Namanga , Sinonik , Mairouwa, Mairouwa, Sinonik ,Arusha
+288,98,Ketumbeine - Elang'atadapash,Ketumbeine , Elang'atadapash,, Elang'atadapash,,Arusha
+289,99,Engikaret - Kiseriani - Ketumbeine,Engikaret , Kiseriani , Ketumbeine, Ketumbeine, Kiseriani ,Arusha
+290,100,Merugoi - Magadini,Merugoi , Magadini,, Magadini,,Arusha
+291,101,Sinoniki - Kimwati,Sinoniki , Kimwati,, Kimwati,,Arusha
+292,102,Noondoto - Elang'atadapash,Noondoto , Elang'atadapash,, Elang'atadapash,,Arusha
+293,103,Ketumbeine - Noondoto,Ketumbeine , Noondoto,, Noondoto,,Arusha
+294,104,Ortinga - Mundarara,Ortinga , Mundarara,, Mundarara,,Arusha
+297,105,Longido Town Roads,Longido Town Roads,,,,,Arusha
+298,106,Namanga Town Roads,Namanga Town Roads,,,,,Arusha
+307,1,Olemesuit-loliondo-kleins Camp,Olemesuit,loliondo,kleins Camp,kleins Camp,loliondo,Arusha
+308,2,Soitsambu-njoroi,Soitsambu,njoroi,,njoroi,,Arusha
+309,3,Wasso-oloipiri,Wasso,oloipiri,,oloipiri,,Arusha
+310,4,Olorien-magaidiru-mgongo,Olorien,magaidiru,mgongo,mgongo,magaidiru,Arusha
+311,5,Mgongo- Samunge,Mgongo, Samunge,, Samunge,,Arusha
+312,6,Mdito- Digodigo- Oldonyosambu,Mdito, Digodigo, Oldonyosambu, Oldonyosambu, Digodigo,Arusha
+313,7,Oldonyosambu - Masusu - Sale,Oldonyosambu , Masusu , Sale, Sale, Masusu ,Arusha
+314,8,Wasso - Hospital,Wasso , Hospital,, Hospital,,Arusha
+315,9,Sakala - Loliondo,Sakala , Loliondo,, Loliondo,,Arusha
+316,10,Prison Road,Prison Road,,,,,Arusha
+317,11,Oldoyowas-oldonyorok- Olduvai,Oldoyowas,oldonyorok, Olduvai, Olduvai,oldonyorok,Arusha
+318,12,Loliondo- Tinaga Jcnt,Loliondo, Tinaga Jcnt,, Tinaga Jcnt,,Arusha
+319,13,Loliondo- Ngárwa-digodigo,Loliondo, Ngárwa,digodigo,digodigo, Ngárwa,Arusha
+320,14,Digodigo- Kisangiro,Digodigo, Kisangiro,, Kisangiro,,Arusha
+321,15,Sale- Malambo- Olbalbal,Sale, Malambo, Olbalbal, Olbalbal, Malambo,Arusha
+322,16,Ngorongoro- Osioni- Kakesio,Ngorongoro, Osioni, Kakesio, Kakesio, Osioni,Arusha
+323,17,Ngorongoro- Nainokanoka- Nayobi,Ngorongoro, Nainokanoka, Nayobi, Nayobi, Nainokanoka,Arusha
+326,18,Ormanie - Piyaya,Ormanie , Piyaya,, Piyaya,,Arusha
+327,19,Soitsambu - Oloipiri,Soitsambu , Oloipiri,, Oloipiri,,Arusha
+328,20,Masusu-pinyinyi,Masusu,pinyinyi,,pinyinyi,,Arusha
+333,21,Ngarasero- Monic- Pinyinyi,Ngarasero, Monic, Pinyinyi, Pinyinyi, Monic,Arusha
+334,22,Wasso- Locit,Wasso, Locit,, Locit,,Arusha
+335,23,Kitui Road,Kitui Road,,,,,Arusha
+336,24,Lr-1,Lr,1,,1,,Arusha
+337,25,Cultural Boma- Olbalbal,Cultural Boma, Olbalbal,, Olbalbal,,Arusha
+338,26,Embakai- Kapenjiro,Embakai, Kapenjiro,, Kapenjiro,,Arusha
+341,27,Kibaoni - Arash,Kibaoni , Arash,, Arash,,Arusha
+342,28,Oldonyosambu -jema,Oldonyosambu ,jema,,jema,,Arusha
+343,29,Oldonyowas Primary  Road,Oldonyowas Primary  Road,,,,,Arusha
+352,1,Njiapanda-mang'ola,Njiapanda,mang'ola,,mang'ola,,Arusha
+353,2,Tfa - Oldeani,Tfa , Oldeani,, Oldeani,,Arusha
+354,3,Kansay - Laja,Kansay , Laja,, Laja,,Arusha
+355,4,Endabash - Buger - Kansay,Endabash , Buger , Kansay, Kansay, Buger ,Arusha
+356,5,Endabash - Qaru,Endabash , Qaru,, Qaru,,Arusha
+357,6,Qaru - Manyara,Qaru , Manyara,, Manyara,,Arusha
+358,7,Manyara - K/simba - Lositeti,Manyara , K/simba , Lositeti, Lositeti, K/simba ,Arusha
+359,8,Rhotia - K/simba,Rhotia , K/simba,, K/simba,,Arusha
+360,9,Rhotia - Chemchem,Rhotia , Chemchem,, Chemchem,,Arusha
+361,10,Hospital Road,Hospital Road,,,,,Arusha
+362,11,Gibb's Road,Gibb's Road,,,,,Arusha
+363,12,Nmc Road,Nmc Road,,,,,Arusha
+364,13,Endarofta Road,Endarofta Road,,,,,Arusha
+365,14,Endamarariek - Basodawish,Endamarariek , Basodawish,, Basodawish,,Arusha
+366,15,Endamarariek - Getamock,Endamarariek , Getamock,, Getamock,,Arusha
+367,16,Karatu - Ayalabe,Karatu , Ayalabe,, Ayalabe,,Arusha
+368,17,Ayalabe - Ganaco,Ayalabe , Ganaco,, Ganaco,,Arusha
+371,18,Bashay - Qurus,Bashay , Qurus,, Qurus,,Arusha
+377,19,Mang'ola Baraza - Malekehand -langangarer,Mang'ola Baraza , Malekehand ,langangarer,langangarer, Malekehand ,Arusha
+378,20,Mang'ola Magorofa - Endamaghan,Mang'ola Magorofa , Endamaghan,, Endamaghan,,Arusha
+379,21,Oldean Mang'ola Juu - Makhoromba,Oldean Mang'ola Juu , Makhoromba,, Makhoromba,,Arusha
+380,22,Makhoromba - Mang'ola Magorofan Jct,Makhoromba , Mang'ola Magorofan Jct,, Mang'ola Magorofan Jct,,Arusha
+381,23,Changarawe - Endashangwet,Changarawe , Endashangwet,, Endashangwet,,Arusha
+382,24,Karatu - Gongali - Qurus,Karatu , Gongali , Qurus, Qurus, Gongali ,Arusha
+383,25,Kambi Ya Nyoka,Kambi Ya Nyoka,,,,,Arusha
+384,26,Upper Kitete - Kambi Ya Simba,Upper Kitete , Kambi Ya Simba,, Kambi Ya Simba,,Arusha
+385,27,Karatu - Ngila,Karatu , Ngila,, Ngila,,Arusha
+393,28,Krt - 1,Krt ,1,,1,,Arusha
+394,29,Krt - 2,Krt ,2,,2,,Arusha
+395,30,Krt - 3,Krt ,3,,3,,Arusha
+396,31,Krt - 4,Krt ,4,,4,,Arusha
+397,32,Krt - 5,Krt ,5,,5,,Arusha
+398,33,Krt - 6,Krt ,6,,6,,Arusha
+399,34,Krt - 7,Krt ,7,,7,,Arusha
+400,35,Krt - 8,Krt ,8,,8,,Arusha
+401,36,Krt - 9,Krt ,9,,9,,Arusha
+402,37,Krt - 10,Krt ,10,,10,,Arusha
+403,38,Krt - 11,Krt ,11,,11,,Arusha
+404,39,Krt - 12,Krt ,12,,12,,Arusha
+405,40,Krt - 13,Krt ,13,,13,,Arusha
+406,41,Krt - 14,Krt ,14,,14,,Arusha
+407,42,Krt - 15,Krt ,15,,15,,Arusha
+408,43,Krt - 16,Krt ,16,,16,,Arusha
+409,44,Krt - 17,Krt ,17,,17,,Arusha
+410,45,Krt - 18,Krt ,18,,18,,Arusha
+411,46,Krt - 19,Krt ,19,,19,,Arusha
+412,47,Krt - 20,Krt ,20,,20,,Arusha
+413,48,Krt - 21,Krt ,21,,21,,Arusha
+414,49,Krt - 22,Krt ,22,,22,,Arusha
+415,50,Krt - 23,Krt ,23,,23,,Arusha
+416,51,Krt - 24,Krt ,24,,24,,Arusha
+417,52,Krt - 25,Krt ,25,,25,,Arusha
+418,53,Krt - 26,Krt ,26,,26,,Arusha
+419,54,Krt - 27,Krt ,27,,27,,Arusha
+420,55,Krt - 28,Krt ,28,,28,,Arusha
+421,56,Krt - 29,Krt ,29,,29,,Arusha
+422,57,Krt - 30,Krt ,30,,30,,Arusha
+423,58,Krt - 31,Krt ,31,,31,,Arusha
+424,59,Krt - 32,Krt ,32,,32,,Arusha
+425,60,Krt - 33,Krt ,33,,33,,Arusha
+426,61,Krt - 34,Krt ,34,,34,,Arusha
+427,62,Krt - 35,Krt ,35,,35,,Arusha
+428,63,Krt - 36,Krt ,36,,36,,Arusha
+429,64,Krt - 37,Krt ,37,,37,,Arusha
+430,65,Krt - 38,Krt ,38,,38,,Arusha
+431,66,Krt - 39,Krt ,39,,39,,Arusha
+432,67,Krt - 40,Krt ,40,,40,,Arusha
+433,68,Krt - 41,Krt ,41,,41,,Arusha
+434,69,Krt - 42,Krt ,42,,42,,Arusha
+435,70,Krt - 43,Krt ,43,,43,,Arusha
+436,71,Krt - 44,Krt ,44,,44,,Arusha
+437,72,Krt - 45,Krt ,45,,45,,Arusha
+438,73,Krt - 46,Krt ,46,,46,,Arusha
+439,74,Krt - 47,Krt ,47,,47,,Arusha
+440,75,Krt - 48,Krt ,48,,48,,Arusha
+441,76,Krt - 49,Krt ,49,,49,,Arusha
+442,77,Krt - 50,Krt ,50,,50,,Arusha
+443,78,Krt - 51,Krt ,51,,51,,Arusha
+444,79,Krt - 52,Krt ,52,,52,,Arusha
+445,80,Krt - 53,Krt ,53,,53,,Arusha
+446,81,Krt - 54,Krt ,54,,54,,Arusha
+447,82,Krt - 55,Krt ,55,,55,,Arusha
+448,83,Krt - 56,Krt ,56,,56,,Arusha
+449,84,Krt - 57,Krt ,57,,57,,Arusha
+450,85,Krt - 58,Krt ,58,,58,,Arusha
+451,86,Krt - 59,Krt ,59,,59,,Arusha
+452,87,Krt - 60,Krt ,60,,60,,Arusha
+453,88,Krt - 61,Krt ,61,,61,,Arusha
+456,89,New Trading Center At Njiapanda,New Trading Center At Njiapanda,,,,,Arusha
 475,61001,Bagamoyo~kaole,Bagamoyo~kaole,,,,,
 476,61071,Miono~mihuga,Miono~mihuga,,,,,
 477,61072,Kikaro~kweikonje,Kikaro~kweikonje,,,,,
