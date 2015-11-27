@@ -19,24 +19,30 @@ with open('Roads_Nodes.csv') as csvfile:
         values['End_Node_Cords'] = row['End Node']
         values['Via_Cords'] = row['Via']
         results[i] = {}
+        results[i]['Start_Node_Cords'] = "No Coords"
+        results[i]['End_Node_Cords'] = "No Coords"
+        results[i]['Via_Cords'] = "No Coords"
+
         for key,value in values.iteritems():
-            query = value
-            results[i][key] = "No Cords"
+            query = value            
             print "Querying . . . "
-            result = geocoder.geocode(query)
+            try:
+            	result = geocoder.geocode(query)
+            except Exception as e:
+            	continue
             for res in result:
                 if "Tanzania" in res['formatted'] and row['District'] in res['formatted']:
                     lat = res['geometry']['lat']
                     lng = res['geometry']['lng']
                     results[i][key] = str(lat)+','+str(lng)
-        if i == 5:
+        if i is 50:
             break
         i = i + 1
 
    
 with open('Results.csv', 'w') as csvfile:
     fieldnames = ['Start_Node_Cords', 'End_Node_Cords', 'Via_Cords']
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames, lineterminator = '\n')
     writer.writeheader()
 
     for key , end_result in results.iteritems():
